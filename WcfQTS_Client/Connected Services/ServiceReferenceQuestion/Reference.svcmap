@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="659bc512-41ac-479b-8210-7e813384743a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/ServiceQue" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceQue.xsd" MetadataType="Schema" ID="9e6765b5-4e13-41a4-96da-b464af7cf7c4" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceQue?xsd=xsd3" />
+    <MetadataFile FileName="ServiceQue1.xsd" MetadataType="Schema" ID="bb99cdc7-5086-4cf7-92e1-392d2f234d00" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceQue?xsd=xsd2" />
+    <MetadataFile FileName="QuestionService.wsdl" MetadataType="Wsdl" ID="3299b26c-2a05-4ded-a40a-b4777cdbb094" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceQue?wsdl" />
+    <MetadataFile FileName="ServiceQue.disco" MetadataType="Disco" ID="5869f758-0542-49f3-99ee-7ea3e633d9f7" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceQue?disco" />
+    <MetadataFile FileName="ServiceQue2.xsd" MetadataType="Schema" ID="1751b5f9-acab-439b-b931-2348da52a090" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceQue?xsd=xsd1" />
+    <MetadataFile FileName="ServiceQue3.xsd" MetadataType="Schema" ID="bd4f8896-3391-469c-9acd-87978dcee0a3" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceQue?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

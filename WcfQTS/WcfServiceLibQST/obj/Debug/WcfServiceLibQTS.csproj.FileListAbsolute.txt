@@ -1,0 +1,16 @@
+D:\projects\wsd\WcfQST\WcfServiceLibQST\obj\Debug\WcfServiceLibQTS.csproj.AssemblyReference.cache
+D:\projects\wsd\WcfQST\WcfServiceLibQST\obj\Debug\WcfServiceLibQTS.csproj.CoreCompileInputs.cache
+D:\Projects\c#\dot NET framework services\WcfQST\WcfServiceLibQST\obj\Debug\WcfServiceLibQTS.csproj.AssemblyReference.cache
+D:\Projects\c#\dot NET framework services\WcfQST\WcfServiceLibQST\obj\Debug\WcfServiceLibQTS.csproj.CoreCompileInputs.cache
+D:\Projects\c#\dot NET framework services\WcfQST\WcfServiceLibQST\bin\Debug\WcfServiceLibQTS.dll.config
+D:\Projects\c#\dot NET framework services\WcfQST\WcfServiceLibQST\bin\Debug\WcfServiceLibQTS.dll
+D:\Projects\c#\dot NET framework services\WcfQST\WcfServiceLibQST\bin\Debug\WcfServiceLibQTS.pdb
+D:\Projects\c#\dot NET framework services\WcfQST\WcfServiceLibQST\obj\Debug\WcfServiceLibQTS.dll
+D:\Projects\c#\dot NET framework services\WcfQST\WcfServiceLibQST\obj\Debug\WcfServiceLibQTS.pdb
+D:\Projects\c#\dot NET framework services\WcfQTS\WcfServiceLibQST\bin\Debug\WcfServiceLibQTS.dll.config
+D:\Projects\c#\dot NET framework services\WcfQTS\WcfServiceLibQST\bin\Debug\WcfServiceLibQTS.dll
+D:\Projects\c#\dot NET framework services\WcfQTS\WcfServiceLibQST\bin\Debug\WcfServiceLibQTS.pdb
+D:\Projects\c#\dot NET framework services\WcfQTS\WcfServiceLibQST\obj\Debug\WcfServiceLibQTS.csproj.AssemblyReference.cache
+D:\Projects\c#\dot NET framework services\WcfQTS\WcfServiceLibQST\obj\Debug\WcfServiceLibQTS.csproj.CoreCompileInputs.cache
+D:\Projects\c#\dot NET framework services\WcfQTS\WcfServiceLibQST\obj\Debug\WcfServiceLibQTS.dll
+D:\Projects\c#\dot NET framework services\WcfQTS\WcfServiceLibQST\obj\Debug\WcfServiceLibQTS.pdb
