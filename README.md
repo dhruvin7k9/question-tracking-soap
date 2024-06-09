@@ -2,6 +2,8 @@
 
 #### SOAP based tracking question system, where user can add edit and delete their practiced or interested question and access them in most quick way with the help of filters and search.
 
+### Tech stack : ASP.NET Web App, ADO.NET, WCF SOAP
+
 ### How to Run : 
 - clone the repository
 - build service
